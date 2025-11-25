@@ -1,12 +1,13 @@
 # Hey there 👋
 
-I'm Miro, Boy living in Finland. I'm trying to get good at java so i can make server for everyone.
+I'm boy living in Finland. I'm trying to get good at java so i can make server for everyone.
 
 My main goal is to get in to Java, Kotlin and python coding.
 
 You can find me in discord as itsmikzyy
 
-##Coding languages i have used
+#Coding languages i have used
+
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="lua" width="40" height="40"/> </a>
 
 <!--
