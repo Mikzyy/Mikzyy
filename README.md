@@ -1,6 +1,6 @@
-# Going crazy in coding
+# Hulluna koodaamiseen
 
-## Coding languages I have used
+## Käyttämäni ohjelmointikielet
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -15,18 +15,3 @@
 </p>
 
 ---
-
-### About me
-
-I’m currently a young developer passionate about **Minecraft plugin development** and game programming.  
-I love learning new languages and improving my coding skills every day.  
-
-### Skills / Interests
-- Java, Unity, Lua  
-- Plugin development (Minecraft)  
-- Git & GitHub workflows  
-- Problem solving and creative coding
-
----
-
-*This profile README appears on my GitHub and shows my current projects and skills.*
