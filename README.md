@@ -1,6 +1,6 @@
-# Hulluna koodaamiseen
+<h1 align="left">Hi everyone</h1>
 
-## Käyttämäni ohjelmointikielet
+<h3>My used Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
