@@ -9,6 +9,8 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
   <a href="https://visualstudio.com" target="_blank" rel="noreferrer"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="lua" width="40" height="40"/></a>
   <a href="https://visualstudio.com" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="lua" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/3d040f7f-9ee5-4eff-975f-4d7f89c71974.svg" alt="unity" width="40" height="40"/></a>
+
 </p>
 
 ---
