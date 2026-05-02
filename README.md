@@ -1,24 +1,19 @@
 # ⛏️ Mikzyy | Minecraft Developer
 
-I specialize in creating high-performance Minecraft projects, focusing on server-side architecture and plugin development.
+I specialize in creating Minecraft projects, focusing on server-side architecture and plugin development.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
+### 🛠️ Tech Stack & Tools'
+
+![idea](https://skillicons.dev/icons?i=idea)
 
 ---
 
 ### 📊 Development Activity
-<p align="left">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Mikzyy&show_icons=true&theme=tokyonight)
-  ![Streak](https://streak-stats.demolab.com?user=Mikzyy&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikzyy&layout=compact&theme=tokyonight)
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Mikzyy&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Mikzyy&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikzyy&layout=compact&theme=tokyonight)
 
 <p align="left">
   <img src="https://herokuapp.com" alt="Mikzyy's Streak" />
@@ -27,6 +22,5 @@ I specialize in creating high-performance Minecraft projects, focusing on server
 ---
 
 ### 🧩 Current Focus
-- 🏗️ **Plugin Development**: Building custom Paper and Velocity solutions.
-- ⚡ **Optimization**: Improving server performance and resource management.
+- 🏗️ **Plugin Development**: Building custom Paper plugins.
 - 💻 **Tools**: Primary development in IntelliJ IDEA.
