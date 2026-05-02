@@ -13,10 +13,6 @@ I specialize in creating Minecraft projects, focusing on server-side architectur
 ### 📊 Development Activity
 ![Streak](https://streak-stats.demolab.com?user=Mikzyy&theme=tokyonight)
 
-<p align="left">
-  <img src="https://herokuapp.com" alt="Mikzyy's Streak" />
-</p>
-
 ---
 
 ### 🧩 Current Focus
