@@ -16,5 +16,5 @@ I specialize in creating Minecraft projects, focusing on server-side architectur
 ---
 
 ### 🧩 Current Focus
-- 🏗️ **Plugin Development**: Building custom Paper plugins.
+- 🏗️ **Plugin Development**: Building custom Minecraft Paper plugins.
 - 💻 **Tools**: Primary development in IntelliJ IDEA.
