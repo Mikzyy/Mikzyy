@@ -12,8 +12,6 @@ I specialize in creating Minecraft projects, focusing on server-side architectur
 
 ### 📊 Development Activity
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mikzyy&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=Mikzyy&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikzyy&layout=compact&theme=tokyonight)
 
 <p align="left">
   <img src="https://herokuapp.com" alt="Mikzyy's Streak" />
