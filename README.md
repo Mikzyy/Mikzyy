@@ -11,7 +11,7 @@ I specialize in creating Minecraft projects, focusing on server-side architectur
 ---
 
 ### 📊 Development Activity
-![Streak](https://streak-stats.demolab.com?user=Mikzyy&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Mikzyy&theme=tokyonight-duo)
 
 ---
 
