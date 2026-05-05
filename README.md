@@ -1,4 +1,4 @@
-# ⛏️ Mikzyy | Minecraft Developer
+# Mikzyy
 
 I specialize in creating Minecraft projects, focusing on server-side architecture and plugin development.
 
