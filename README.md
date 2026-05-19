@@ -4,12 +4,18 @@ I specialize in creating Minecraft projects.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-![idea](https://skillicons.dev/icons?i=idea)
+### Languages
+![Java](https://skillicons.dev/icons?i=java)
+![C#](https://skillicons.dev/icons?i=cs)
+
+### Frameworks & Tools
+![html](https://skillicons.dev/icons?i=html)
+![css](https://skillicons.dev/icons?i=css)
 ![vscode](https://skillicons.dev/icons?i=vscode)
 ![visualstudio](https://skillicons.dev/icons?i=visualstudio)
-![java](https://skillicons.dev/icons?i=java)
+![idea](https://skillicons.dev/icons?i=idea)
 
 ---
 
