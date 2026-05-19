@@ -1,6 +1,13 @@
-# Mikzyy
+<div align="center">
 
+# Mikzyy  
 Minecraft plugin developer.
+
+<img src="https://img.shields.io/badge/Minecraft-Developer-23a455?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-Learning-000000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-Main_Editor-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+
+</div>
 
 ---
 
@@ -14,6 +21,7 @@ Minecraft plugin developer.
 ![idea](https://skillicons.dev/icons?i=idea)
 ![visualstudio](https://skillicons.dev/icons?i=visualstudio)
 ![vscode](https://skillicons.dev/icons?i=vscode)
+![unity](https://skillicons.dev/icons?i=unity)
 ![html](https://skillicons.dev/icons?i=html)
 ![css](https://skillicons.dev/icons?i=css)
 
@@ -27,7 +35,8 @@ Minecraft plugin developer.
 ---
 
 ## 🎯 Current Focus
-- Building custom Paper plugins  
+- Building custom Minecraft plugins mainly in Paper  
+- Starting Unity development  
 - Working mainly in IntelliJ IDEA  
 
 ---
