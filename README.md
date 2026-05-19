@@ -2,6 +2,8 @@
 
 I specialize in creating Minecraft projects.
 
+---
+
 ## Tech Stack
 
 ### Languages
@@ -15,11 +17,15 @@ I specialize in creating Minecraft projects.
 ![html](https://skillicons.dev/icons?i=html)
 ![css](https://skillicons.dev/icons?i=css)
 
+---
+
 ## Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mikzyy&theme=tokyonight" />
 </p>
+
+---
 
 ### Current Focus
 - 🏗️ **Plugin Development**: Building custom Minecraft Paper plugins.
