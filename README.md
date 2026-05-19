@@ -11,11 +11,11 @@ I specialize in creating Minecraft projects.
 ![C#](https://skillicons.dev/icons?i=cs)
 
 ### Frameworks & Tools
-![html](https://skillicons.dev/icons?i=html)
-![css](https://skillicons.dev/icons?i=css)
+![idea](https://skillicons.dev/icons?i=idea)
 ![vscode](https://skillicons.dev/icons?i=vscode)
 ![visualstudio](https://skillicons.dev/icons?i=visualstudio)
-![idea](https://skillicons.dev/icons?i=idea)
+![html](https://skillicons.dev/icons?i=html)
+![css](https://skillicons.dev/icons?i=css)
 
 ---
 
