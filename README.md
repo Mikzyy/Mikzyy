@@ -1,6 +1,5 @@
 <div align="center">
 
-# Mikzyy
-## Some dev maybe
+# Hello world!
 
 </div>
